@@ -19,7 +19,7 @@
                 </div>
                 <!-- 用户头像 -->
                 <div class="user-avator">
-                    <img src="file/bbb56290f302c3620a5d16c0dd400a3.jpg" />
+                    <img src="2.jpg" />
                 </div>
                 <!-- 用户名下拉菜单 -->
                 <el-dropdown class="user-name" trigger="click" @command="handleCommand">

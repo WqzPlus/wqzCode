@@ -10,7 +10,7 @@
         <div class="container">
             <div class="plugins-tips">如果该框架对你有帮助，那就请作者喝杯饮料吧！加微信号wqz17600268337探讨问题。</div>
             <div  >
-                <img src="1.jpg" style="height: 300px;width: 260px"/>
+                <img src="src/assets/img/1.jpg" style="height: 300px;width: 260px"/>
             </div>
         </div>
     </div>
